@@ -1,0 +1,484 @@
+*{
+    margin: 0;
+    
+    
+   
+}
+
+.header{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    height: 100px;
+    
+}
+
+.logo{
+    width: 20%;
+ 
+ 
+    
+    
+}
+
+.headeritems{
+    width: 100%;
+    text-align: right;
+    padding-top: 50px;
+    padding-left: 50px;
+   
+    
+}
+.headeritems a{
+    font-size: px;
+    text-decoration:none;
+    margin: 30px;
+    font-weight: bold;
+  color: #ffff;
+  
+    
+}
+
+.container{
+    font-family: Roboto,sans-serif;
+  
+}
+
+.firstpic{
+    width: 100%;
+    height: 500px;
+   overflow: hidden;
+   background-color: #5609fa;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   
+}
+
+.playtext{
+position: absolute;
+color: aliceblue;
+
+   
+}
+
+
+.playtext button{
+    
+ 
+    background-color: red;
+    border-radius: 10px;
+    color: #ffff;
+    font-size: 20px;
+    margin-left: 176px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+
+    
+}
+
+
+
+
+.secondpic{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(71 106 210);;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    
+    
+   
+}
+
+
+.whatsnewtext{
+    
+    width: 100%;
+    height: 100px;
+    background-color: rgb(245, 33, 33);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.secondpic h3{
+   
+    padding-left: 39px;
+    color: #ffff;
+    font-weight: bold;
+    font-size: 39px;
+    
+    
+ 
+}
+
+.secondpic p{
+    padding-top: 25px;
+    font-size: medium;
+    font-weight: bold;
+    color: #ffff;
+    font-size: 19px;
+    
+}
+
+.whatsnewtext h1{
+    color: #ffff;
+}
+
+.secondpic button{
+    margin-top: 25px;
+    border-radius: 10px;
+    font-size: medium;
+    background-color:#ff0000 ;
+    color: #ffff;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.secondpic h2{
+    color:white;
+    padding-right: 300px;
+    padding-top: 100px;
+}
+.secondpic h1{
+    color: white;
+    padding-top: 30px;
+
+}
+
+.whatsnew{
+
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite  ;
+}
+
+.divhalf1{
+    width: 50%;
+    background-color: rgb(231, 223, 237);
+    height: 350px;
+    float: left;
+    align-items: center;
+   
+}
+.divhalf2{
+    width: 50%;
+    height: 350px;
+    float: left;
+   
+    
+}
+
+.divhalf2 img{
+    width: 759.6px;
+}
+
+
+
+.divhalf1 h2{
+
+    text-align: right;
+    padding-top: 50px;
+    padding-right: 20px;
+    color: black;
+
+}
+
+.divhalf1 p{
+    
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    font-size: 19px;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 20px;
+    margin-left: 189px;
+
+
+    
+
+}
+
+.divhalf1 button{
+    
+    margin-top: 25px;
+    border-radius: 10px;
+    font-size: small;
+    background-color:#ff0000 ;
+    color: #ffff;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+   margin-left: 645px;
+}
+
+
+divhalf4 h2{
+
+    text-align: right;
+    padding-top: 50px;
+    padding-right: 20px;
+    color: black;
+    
+}
+
+
+
+.divhalf3{
+    width: 50%;
+    height: 300px;
+    background-color: #5609fa;
+    float: left;
+  
+    
+}
+
+.divhalf4{
+    width: 50%;
+    height: 300px;
+    background-color: aqua;
+    float: left;
+    background-color: rgb(231, 223, 237); 
+
+}
+
+.divhalf4 h2{
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20px;
+    color: black;
+}
+
+.divhalf4 p{
+
+    
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    font-size: 19px;
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 180px;
+    margin-left: 20px;
+    
+    
+ }
+
+ .divhalf4 button {
+
+     
+    margin-top: 25px;
+    border-radius: 10px;
+    font-size: small;
+    background-color:#ff0000 ;
+    color: #ffff;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+   margin-left: 19px;
+    
+ }
+
+ 
+ 
+.divhalf6{
+    width: 50%;
+    height: auto;
+    float: left;
+    overflow: hidden;
+   
+}
+
+.divhalf6 img{
+    width: 759px;
+    height: 300px;
+
+}
+
+
+
+
+.divhalf5{
+    width: 50%;
+    height: 300px;
+    background-color: aqua;
+    float: left;
+    background-color: rgb(231, 223, 237); 
+
+}
+ 
+.divhalf5 h2{
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20px;
+    color: black;
+}
+
+.divhalf5 p{
+
+    
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    font-size: 19px;
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 180px;
+    margin-left: 20px;
+    
+    
+ }
+
+ .divhalf5 button {
+
+     
+    margin-top: 25px;
+    border-radius: 10px;
+    font-size: small;
+    background-color:#ff0000 ;
+    color: #ffff;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 19px;
+    
+ } 
+
+ .careers{
+
+    width: 100%;
+    height: 700px;
+   
+    flex: content;
+    
+
+ }
+ .careers img{
+    width: 1519px;
+    height: auto;
+  
+ }
+
+ .careerstext{
+    position: absolute;
+    top: 320%;
+    padding-left: 42px;
+    font-weight: bold;
+   
+   
+ }
+
+
+.endingtextleft{
+    position: absolute;
+    top: 350%;
+    padding-left: 42px;
+    font-weight: bold;
+    line-height: 50px;
+
+ }
+ .endingtextright{
+
+    position: absolute;
+    top: 350%;
+    padding-left: 500px;
+    font-weight: bold;
+    line-height: 50px;
+
+ }
+
+ .seeallpositionbutton button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 17px;
+
+ }
+
+ .seeallpositionbutton{
+    position: absolute;
+    top: 396%;
+    padding-left: 20px;
+ }
+
+ .footer{
+
+    width: 100%;
+    height: 450px;
+    background-color:black ;
+    padding-top: 50px;
+    
+ }
+
+.footermini{
+    margin-left: 650px;
+
+
+
+}
+ .footer img{
+    width: 40%;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    
+    
+ }
+
+ .footer a{
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 19px;
+    color: white;    
+    
+ }
+
+ .footertext{
+    padding-left: 400px;
+    
+
+ }
+
+ .icons{
+    position: absolute;
+    left: 560px;
+    display: flex;
+
+ }
+
+ .icons img{
+   
+    padding: 20px;
+    width: 20px;
+    
+ }
+ .terms{
+    
+    padding-top: 100px;
+    padding-left: 550px;
+ }
+
+ .terms a{
+    font-size: 10px;
+ }
+
+ .credit{
+    color: aliceblue;
+    font-size: 10px;
+    padding-left: 700px;
+    padding-top: 20px;
+ }
